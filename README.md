@@ -2,9 +2,10 @@
 
 ### Mammography 2d dataset
 
-### Mammography detection tools
+### Mammography deep learning detection tools
 Python
 
-### Mammography visualization 
+### Mammography visualization & annotation
 Common
+### Litterature review
 
