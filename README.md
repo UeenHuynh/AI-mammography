@@ -7,5 +7,5 @@ Python
 
 ### Mammography visualization & annotation
 Common
-### Litterature review
+### Literature review
 
