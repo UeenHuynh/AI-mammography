@@ -1,37 +1,22 @@
 # AI-mammography
 
 ### Mammography 2d dataset
-
+1. CMMD
+2. 
 ### Mammography deep learning detection tools
 1. [**Deep Learning to Improve Breast Cancer Detection on Screening Mammography (End-to-end Training for Whole Image Breast Cancer Screening using An All Convolutional Design)**](https://github.com/lishen/end2end-all-conv)
 
 2. [**Mammo-CLIP: A Vision Language Foundation Model to Enhance Data Efficiency and Robustness in Mammography**](https://github.com/batmanlab/Mammo-CLIP)
 
-4. **Mammography Deep Learning Models**  
-   [mammo](https://github.com/escuccim/mammography-models)
+3. [**DIGITAL EYE for MAMMOGRAPHY: The Digital Eye for Mammography: Deep Transfer Learning and Model Ensemble based Open-Source Toolkit for Mass Detection and Classification.**](https://github.com/cbddobvyz/digitaleye-mammography)
 
-5. **GAN-Based Breast Mammography Segmentation**  
-   [mammo](https://github.com/ankit-ai/GAN_breast_mammography_segmentation)
+4. [**Amazon SageMaker Mammography Classification Workshop**](https://github.com/aws-samples/mammography-classification-workshop)
 
-6. **NYU Mammography Meta Repository**  
-   [mammo](https://github.com/nyukat/mammography_metarepository)
+5. [**Pixel wise Breast Mammography Image Segmentation using Generative Adversarial Networks**](https://github.com/ankit-ai/GAN_breast_mammography_segmentation)
 
-7. **OncoNet Public: Mammography Abnormality Detection**  
-   [mammo](https://github.com/yala/OncoNet_Public)
+6. [**OncoNet: Developing Deep Learning Models for Mammography**](https://github.com/yala/OncoNet_Public)
 
-8. **IAIABL - Interactive Annotation for AI-Assisted Breast Lesion Detection**  
-   [mammo](https://github.com/alinajadebarnett/iaiabl)
-
-9. **Mammo-CLIP: Multimodal Vision-Language Model for Mammography**  
-   [mammo](https://github.com/batmanlab/Mammo-CLIP)
-
-10. **Mirai: Deep Learning Model for Breast Cancer Risk Prediction**  
-   [mammo](https://github.com/yala/Mirai)
-
-11. **DDSM Mammography Dataset Preprocessing**  
-    [mammo](https://github.com/multinormal/ddsm)
-
-
+7. [**Mirai: Mammography-based model for breast cancer risk**](https://github.com/yala/Mirai)
 
 
 ### Mammography visualization & annotation
