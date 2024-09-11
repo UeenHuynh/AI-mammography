@@ -8,7 +8,7 @@
 
 2. **Mammo-CLIP: A Vision Language Foundation Model to Enhance Data Efficiency and Robustness in Mammography**[[paper](https://arxiv.org/pdf/2405.12255)][[code](https://github.com/batmanlab/Mammo-CLIP)]
 
-3. [**DIGITAL EYE for MAMMOGRAPHY: The Digital Eye for Mammography: Deep Transfer Learning and Model Ensemble based Open-Source Toolkit for Mass Detection and Classification.**](https://github.com/cbddobvyz/digitaleye-mammography)
+3. [**DIGITAL EYE for MAMMOGRAPHY: Deep Transfer Learning and Model Ensemble based Open-Source Toolkit for Mass Detection and Classification.**][[paper](https://cbddo.gov.tr/en/projects/digital-eye-project/)][[code](https://github.com/cbddobvyz/digitaleye-mammography)]
 
 4. [**Amazon SageMaker Mammography Classification Workshop**](https://github.com/aws-samples/mammography-classification-workshop)
 
