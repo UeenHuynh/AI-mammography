@@ -10,13 +10,13 @@
 
 3. [**DIGITAL EYE for MAMMOGRAPHY: Deep Transfer Learning and Model Ensemble based Open-Source Toolkit for Mass Detection and Classification.**][[paper](https://cbddo.gov.tr/en/projects/digital-eye-project/)][[code](https://github.com/cbddobvyz/digitaleye-mammography)]
 
-4. [**Amazon SageMaker Mammography Classification Workshop**](https://github.com/aws-samples/mammography-classification-workshop)
+4. **Amazon SageMaker Mammography Classification Workshop**[[code](https://github.com/aws-samples/mammography-classification-workshop)]
 
-5. [**Pixel wise Breast Mammography Image Segmentation using Generative Adversarial Networks**](https://github.com/ankit-ai/GAN_breast_mammography_segmentation)
+5. **Pixel wise Breast Mammography Image Segmentation using Generative Adversarial Networks**[[paper](https://github.com/ankit-ai/GAN_breast_mammography_segmentation/blob/master/images/Screen%20Shot%202019-01-06%20at%209.47.40%20PM.png?raw=true)][[code](https://github.com/ankit-ai/GAN_breast_mammography_segmentation)]
 
-6. [**OncoNet: Developing Deep Learning Models for Mammography**](https://github.com/yala/OncoNet_Public)
+6. **OncoNet: Developing Deep Learning Models for Mammography**[[code](https://github.com/yala/OncoNet_Public)]
 
-7. [**Mirai: Mammography-based model for breast cancer risk**](https://github.com/yala/Mirai)
+7. **Mirai: Mammography-based model for breast cancer risk**[[code](https://github.com/yala/Mirai)]
 
 
 ### Mammography visualization & annotation
