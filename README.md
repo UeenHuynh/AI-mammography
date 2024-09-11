@@ -4,9 +4,9 @@
 1. CMMD
 2. 
 ### Mammography deep learning detection tools
-1. **Deep Learning to Improve Breast Cancer Detection on Screening Mammography (End-to-end Training for Whole Image Breast Cancer Screening using An All Convolutional Design)**[[github](https://github.com/lishen/end2end-all-conv)]
+1. **Deep Learning to Improve Breast Cancer Detection on Screening Mammography (End-to-end Training for Whole Image Breast Cancer Screening using An All Convolutional Design)**[[paper](https://www.nature.com/articles/s41598-019-48995-4.epdf?author_access_token=sU0s0tPP8aQbaFvLZkT7y9RgN0jAjWel9jnR3ZoTv0MogeZTGvTlEp0_tJGQ9BS1WdEgozgVUcW-HwnKaE5IRbXmq4dt3ZbJCbq5PxSQdmsx0ay_ZrO-4HKR6og2RGCX0NeapHuZTz0D2NjAc4tDYw%3D%3D)][[code](https://github.com/lishen/end2end-all-conv)]
 
-2. [**Mammo-CLIP: A Vision Language Foundation Model to Enhance Data Efficiency and Robustness in Mammography**](https://github.com/batmanlab/Mammo-CLIP)
+2. **Mammo-CLIP: A Vision Language Foundation Model to Enhance Data Efficiency and Robustness in Mammography**[[paper](https://arxiv.org/pdf/2405.12255)][[code](https://github.com/batmanlab/Mammo-CLIP)]
 
 3. [**DIGITAL EYE for MAMMOGRAPHY: The Digital Eye for Mammography: Deep Transfer Learning and Model Ensemble based Open-Source Toolkit for Mass Detection and Classification.**](https://github.com/cbddobvyz/digitaleye-mammography)
 
