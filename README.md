@@ -4,11 +4,15 @@
 
 This is a summary of recent mammography methods. Please feel free to contact me (uyenhuynhkhoiminh.1.1@gmail.com) if I miss some papers. Issues and PRs are also welcomed! 
 
-## Dataset 
+## Mammography 2D datasets
 | Dataset| Published | &emsp;&emsp;Dataset&emsp;&emsp;| CODE | PDF             |
 | :---------| :----------------------: | :-------------------------------------------------------------------------:| :--------------------: |  :--------------- |
-|The Chinese Mammography Database (CMMD)| Nature|The TCIA|[Dataset](https://www.cancerimagingarchive.net/collection/cmmd/)![Github stars](https://img.shields.io/github/stars/wooseok-shin/PrevMatch)|[Paper](https://www.nature.com/articles/s41597-023-02025-1)|
-|Revisiting and Maximizing Temporal Knowledge in Semi-supervised Semantic Segmentation|PrevMatch| Arxiv 2024|PASCAL VOC 2012, Cityscapes, COCO, ADE20k|[Code](https://github.com/wooseok-shin/PrevMatch)![Github stars](https://img.shields.io/github/stars/wooseok-shin/PrevMatch)|[Paper](https://arxiv.org/abs/2405.20610)|
+|The Chinese Mammography Database (CMMD)| Nature|The TCIA|[Dataset](https://www.cancerimagingarchive.net/collection/cmmd/)|[Paper](https://www.nature.com/articles/s41597-023-02025-1)|
+|Curated Breast Imaging Subset of DDSM (CBIS-DDSM)| Nature|The TCIA[Dataset](https://www.cancerimagingarchive.net/collection/cbis-ddsm/)|[Paper](https://doi.org/10.7937/K9/TCIA.2016.7O02S9CY)|
+|Mammographic Image Analysis Society (MIAS) database v1.21| University of Cambridge|The TCIA[Dataset](https://www.repository.cam.ac.uk/bitstreams/5960ab2b-5ea2-4db1-96ac-15b3605e7485/download)|[Paper](00README.pdf)|
+|INBreast| NA|NA[Dataset](https://www.kaggle.com/datasets/ramanathansp20/inbreast-dataset)|[Paper](https://core.ac.uk/download/pdf/47139244.pdf)|
+
+
 ### Mammography 2d dataset
 1. **CMMD**[[paper](https://www.nature.com/articles/s41597-023-02025-1)][[Dataset](https://www.cancerimagingarchive.net/collection/cmmd/)]
 2. **CBIS-DDSM**[[paper](https://doi.org/10.7937/K9/TCIA.2016.7O02S9CY)][[Dataset](https://www.cancerimagingarchive.net/collection/cbis-ddsm/)]
