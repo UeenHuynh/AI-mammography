@@ -1,5 +1,6 @@
 # AI-mammography
-
+[![mammography](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/UeenHuynh/AI-mammography.git)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/BBBBchan/Awesome-Semi-Supervised-Semantic-Segmentation/graphs/commit-activity)
 ### Mammography 2d dataset
 1. **CMMD**[[paper](https://www.nature.com/articles/s41597-023-02025-1)][[Dataset](https://www.cancerimagingarchive.net/collection/cmmd/)]
 2. **CBIS-DDSM**[[paper](https://doi.org/10.7937/K9/TCIA.2016.7O02S9CY)][[Dataset](https://www.cancerimagingarchive.net/collection/cbis-ddsm/)]
