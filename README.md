@@ -23,8 +23,8 @@ This is a summary of recent mammography methods. Please feel free to contact me 
 |Amazon SageMaker Mammography Classification Workshop| Arxiv|NA|[Code](https://github.com/cbddobvyz/digitaleye-mammography)![Github stars](https://img.shields.io/github/stars/cbddobvyz/digitaleye-mammography)|[Paper](https://arxiv.org/pdf/2405.12255)|
 |Pixel wise Breast Mammography Image Segmentation using Generative Adversarial Networks| Arxiv|NA|[Code](https://github.com/aws-samples/mammography-classification-workshop)![Github stars](https://img.shields.io/github/stars/aws-samples/mammography-classification-workshop)|[Paper](https://github.com/ankit-ai/GAN_breast_mammography_segmentation/blob/master/images/Screen%20Shot%202019-01-06%20at%209.47.40%20PM.png?raw=true)|
 |OncoNet: Developing Deep Learning Models for Mammography| -|NA|[Code](https://github.com/yala/OncoNet_Public)![Github stars](https://img.shields.io/github/stars/yala/OncoNet_Public)|[Paper](-)|
-|Mirai: Mammography-based model for breast cancer risk| -|NA|[Code](ttps://github.com/yala/Mirai)![Github stars](https://img.shields.io/github/stars/yala/Mirai)|[Paper](-)|
-
+|Mirai: Mammography-based model for breast cancer risk| -|NA|[Code](https://github.com/yala/Mirai)![Github stars](https://img.shields.io/github/stars/yala/Mirai)|[Paper](-)|
+|Deep Multi-instance Networks with Sparse Label Assignment for Whole Mammogram Classification| Arxiv|INBreast|[Code](https://github.com/wentaozhu/deep-mil-for-whole-mammogram-classification)![Github stars](https://img.shields.io/github/stars/wentaozhu/deep-mil-for-whole-mammogram-classification)|[Paper](https://arxiv.org/pdf/1705.08550)|
 
 
 ### Mammography visualization & annotation
