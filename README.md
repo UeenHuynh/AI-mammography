@@ -13,7 +13,13 @@ This is a summary of recent mammography methods. Please feel free to contact me 
 |Mammographic Image Analysis Society (MIAS) database v1.21| University of Cambridge|The TCIA|[Dataset](https://www.repository.cam.ac.uk/bitstreams/5960ab2b-5ea2-4db1-96ac-15b3605e7485/download)|[Paper](00README.pdf)|
 |INBreast| NA|NA|[Dataset](https://www.kaggle.com/datasets/ramanathansp20/inbreast-dataset)|[Paper](https://core.ac.uk/download/pdf/47139244.pdf)|
 
+
 ### Mammography deep learning detection tools
+| Tool| Published | Dataset| CODE | PDF             |
+| :---------| :----------------------: | :-------------------------------------------------------------------------:| :--------------------: |  :--------------- |
+|Deep Learning to Improve Breast Cancer Detection on Screening Mammography (End-to-end Training for Whole Image Breast Cancer Screening using An All Convolutional Design)| Nature|NA|[Code](https://github.com/lishen/end2end-all-conv)![Github stars](https://github.com/lishen/end2end-all-conv)|[Paper](https://www.nature.com/articles/s41598-019-48995-4.pdf)|
+
+|Revisiting and Maximizing Temporal Knowledge in Semi-supervised Semantic Segmentation|PrevMatch| Arxiv 2024|PASCAL VOC 2012, Cityscapes, COCO, ADE20k|[Code](https://github.com/wooseok-shin/PrevMatch)![Github stars](https://img.shields.io/github/stars/wooseok-shin/PrevMatch)|[Paper](https://arxiv.org/abs/2405.20610)|
 
 1. **Deep Learning to Improve Breast Cancer Detection on Screening Mammography (End-to-end Training for Whole Image Breast Cancer Screening using An All Convolutional Design)**[[paper](https://www.nature.com/articles/s41598-019-48995-4.epdf?author_access_token=sU0s0tPP8aQbaFvLZkT7y9RgN0jAjWel9jnR3ZoTv0MogeZTGvTlEp0_tJGQ9BS1WdEgozgVUcW-HwnKaE5IRbXmq4dt3ZbJCbq5PxSQdmsx0ay_ZrO-4HKR6og2RGCX0NeapHuZTz0D2NjAc4tDYw%3D%3D)][[code](https://github.com/lishen/end2end-all-conv)]
 
