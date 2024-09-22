@@ -5,7 +5,7 @@
 This is a summary of recent mammography methods. Please feel free to contact me (uyenhuynhkhoiminh.1.1@gmail.com) if I miss some papers. Issues and PRs are also welcomed! 
 
 ## Mammography 2D datasets
-| Dataset| Published | &emsp;&emsp;Dataset&emsp;&emsp;| CODE | PDF             |
+| Dataset| Published | Dataset| CODE | PDF             |
 | :---------| :----------------------: | :-------------------------------------------------------------------------:| :--------------------: |  :--------------- |
 |A review of the machine learning datasets in mammography, their adherence to the FAIR principles and the outlook for the future| Nature|NA|[Dataset](NA)|[Paper](https://www.nature.com/articles/s41597-023-02430-6.pdf)|
 |The Chinese Mammography Database (CMMD)| Nature|The TCIA|[Dataset](https://www.cancerimagingarchive.net/collection/cmmd/)|[Paper](https://www.nature.com/articles/s41597-023-02025-1)|
