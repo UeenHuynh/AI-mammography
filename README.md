@@ -17,7 +17,7 @@ This is a summary of recent mammography methods. Please feel free to contact me 
 ### Mammography deep learning detection tools
 | Tool| Published | Dataset| CODE | PDF             |
 | :---------| :----------------------: | :-------------------------------------------------------------------------:| :--------------------: |  :--------------- |
-|Deep Learning to Improve Breast Cancer Detection on Screening Mammography (End-to-end Training for Whole Image Breast Cancer Screening using An All Convolutional Design)| Nature|NA|[Code](https://github.com/lishen/end2end-all-conv)![Github stars](https://github.com/lishen/end2end-all-conv)|[Paper](https://www.nature.com/articles/s41598-019-48995-4.pdf)|
+|Deep Learning to Improve Breast Cancer Detection on Screening Mammography (End-to-end Training for Whole Image Breast Cancer Screening using An All Convolutional Design)| Nature|NA|[Code](https://github.com/lishen/end2end-all-conv)![Github stars](https://img.shields.io/github/stars/lishen/end2end-all-conv)|[Paper](https://www.nature.com/articles/s41598-019-48995-4.pdf)|
 
 |Revisiting and Maximizing Temporal Knowledge in Semi-supervised Semantic Segmentation|PrevMatch| Arxiv 2024|PASCAL VOC 2012, Cityscapes, COCO, ADE20k|[Code](https://github.com/wooseok-shin/PrevMatch)![Github stars](https://img.shields.io/github/stars/wooseok-shin/PrevMatch)|[Paper](https://arxiv.org/abs/2405.20610)|
 
