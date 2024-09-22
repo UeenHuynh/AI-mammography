@@ -18,11 +18,7 @@ This is a summary of recent mammography methods. Please feel free to contact me 
 | Tool| Published | Dataset| CODE | PDF             |
 | :---------| :----------------------: | :-------------------------------------------------------------------------:| :--------------------: |  :--------------- |
 |Deep Learning to Improve Breast Cancer Detection on Screening Mammography (End-to-end Training for Whole Image Breast Cancer Screening using An All Convolutional Design)| Nature|NA|[Code](https://github.com/lishen/end2end-all-conv)![Github stars](https://img.shields.io/github/stars/lishen/end2end-all-conv)|[Paper](https://www.nature.com/articles/s41598-019-48995-4.pdf)|
-
-|Revisiting and Maximizing Temporal Knowledge in Semi-supervised Semantic Segmentation|PrevMatch| Arxiv 2024|PASCAL VOC 2012, Cityscapes, COCO, ADE20k|[Code](https://github.com/wooseok-shin/PrevMatch)![Github stars](https://img.shields.io/github/stars/wooseok-shin/PrevMatch)|[Paper](https://arxiv.org/abs/2405.20610)|
-
-1. **Deep Learning to Improve Breast Cancer Detection on Screening Mammography (End-to-end Training for Whole Image Breast Cancer Screening using An All Convolutional Design)**[[paper](https://www.nature.com/articles/s41598-019-48995-4.epdf?author_access_token=sU0s0tPP8aQbaFvLZkT7y9RgN0jAjWel9jnR3ZoTv0MogeZTGvTlEp0_tJGQ9BS1WdEgozgVUcW-HwnKaE5IRbXmq4dt3ZbJCbq5PxSQdmsx0ay_ZrO-4HKR6og2RGCX0NeapHuZTz0D2NjAc4tDYw%3D%3D)][[code](https://github.com/lishen/end2end-all-conv)]
-
+|Mammo-CLIP: A Vision Language Foundation Model to Enhance Data Efficiency and Robustness in Mammography| Arxiv|NA|[Code](https://github.com/batmanlab/Mammo-CLIP)![Github stars](https://img.shields.io/github/stars/batmanlab/Mammo-CLIP)|[Paper](https://arxiv.org/pdf/2405.12255)|
 2. **Mammo-CLIP: A Vision Language Foundation Model to Enhance Data Efficiency and Robustness in Mammography**[[paper](https://arxiv.org/pdf/2405.12255)][[code](https://github.com/batmanlab/Mammo-CLIP)]
 
 3. **DIGITAL EYE for MAMMOGRAPHY: Deep Transfer Learning and Model Ensemble based Open-Source Toolkit for Mass Detection and Classification.**[[paper](https://cbddo.gov.tr/en/projects/digital-eye-project/)][[code](https://github.com/cbddobvyz/digitaleye-mammography)]
