@@ -37,7 +37,12 @@ Common
 |Applying Deep Learning Methods for Mammography Analysis and Breast Cancer Detection| Appl. Sci. 2023|-|CAM|[Paper](https://www.mdpi.com/2076-3417/13/7/4272)|
 |Applying Deep Learning Methods for Mammography Analysis and Breast Cancer Detection| Appl. Sci. 2023|INBrest, CBIS-DDSM|CAM|[Paper](https://www.mdpi.com/2076-3417/13/7/4272)|
 
-### Gaps in Current Research
+## Gaps in Current Research
 1. Data Scarcity: Models trained on small datasets, may not generalize well across diverse populations. Recent studies have suggested the use of self-supervised learning to mitigate the issue of limited labeled data [Paper](https://www.frontiersin.org/journals/oncology/articles/10.3389/fonc.2024.1281922/full)
 2. Generalization and Overfitting: Many AI models, particularly those based on deep learning, suffer from overfitting due to the limited diversity in mammogram datasets. A typical solution involves cross-validation, but without appropriate regularization techniques like dropout, these models might still fail on unseen data​ [Paper](https://link.springer.com/article/10.1007/s40747-024-01532-x)
 3. Multi-Modal Integration: AI systems currently focus predominantly on mammograms, but integration with other imaging techniques like MRI or ultrasound has shown promise. Combining data from multiple imaging modalities could improve diagnostic accuracy and tackle the issue of false positives​ [Paper](https://www.mdpi.com/2076-3417/12/9/4616)
+
+## Recommendations for Future Research
+1. Hybrid AI Models: Combining classification and segmentation in one model can improve diagnostic outcomes. Multi-task learning networks
+2. Explainable and Robust AI: To increase clinical adoption, more research should focus on explainability.
+3. Transfer Learning and Domain Adaptation: Applying transfer learning from large datasets (even those outside mammography) could help address the issue of limited medical datasets. Models pretrained on general image datasets could be fine-tuned for mammogram analysis, as recent research has shown promising results in this area
