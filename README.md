@@ -10,8 +10,8 @@ This is a summary of recent mammography methods. Please feel free to contact me 
 |A review of the machine learning datasets in mammography, their adherence to the FAIR principles and the outlook for the future| Nature|NA|[Dataset](NA)|[Paper](https://www.nature.com/articles/s41597-023-02430-6.pdf)|
 |The Chinese Mammography Database (CMMD)| Nature|TCIA|[Dataset](https://www.cancerimagingarchive.net/collection/cmmd/)|[Paper](https://www.nature.com/articles/s41597-023-02025-1)|
 |Curated Breast Imaging Subset of DDSM (CBIS-DDSM)| Nature|TCIA|[Dataset](https://www.cancerimagingarchive.net/collection/cbis-ddsm/)|[Paper](https://www.nature.com/articles/sdata2017177)|
-|Mammographic Image Analysis Society (MIAS) database v1.21| University of Cambridge|TCIA|[Dataset](https://www.repository.cam.ac.uk/bitstreams/5960ab2b-5ea2-4db1-96ac-15b3605e7485/download)|[Paper](00README.pdf)|
-|INBreast| NA|NA|[Dataset](https://www.kaggle.com/datasets/ramanathansp20/inbreast-dataset)|[Paper](https://core.ac.uk/download/pdf/47139244.pdf)|
+|Mammographic Image Analysis Society (MIAS) database v1.21| University of Cambridge|TCIA|[Dataset](https://www.repository.cam.ac.uk/bitstreams/5960ab2b-5ea2-4db1-96ac-15b3605e7485/download)|[Paper](https://www.researchgate.net/publication/243788073_Themammographic_image_analysis_society_digital_mammogram_database)|
+|INBreast| NA|NA|[Dataset](https://www.kaggle.com/datasets/ramanathansp20/inbreast-dataset)|[Paper](inbreast.pdf)|
 
 
 ## Mammography deep learning detection tools
