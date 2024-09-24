@@ -30,4 +30,8 @@ This is a summary of recent mammography methods. Please feel free to contact me 
 ### Mammography visualization & annotation
 Common
 ### Literature review
+## SOTA in AI Mammography Detection
+| Tool| Published | Dataset| CODE | PDF             |
+| :---------| :----------------------: | :-------------------------------------------------------------------------:| :--------------------: |  :--------------- |
+|Deep Learning Models: convolutional neural networks (CNN) and U-Net| Springer|INBrest, CBIS-DDSM|-|[Paper](https://link.springer.com/article/10.1007/s40747-024-01532-x)|
 
