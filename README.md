@@ -46,3 +46,48 @@ Common
 1. Hybrid AI Models: Combining classification and segmentation in one model can improve diagnostic outcomes. Multi-task learning networks
 2. Explainable and Robust AI: To increase clinical adoption, more research should focus on explainability.
 3. Transfer Learning and Domain Adaptation: Applying transfer learning from large datasets (even those outside mammography) could help address the issue of limited medical datasets. Models pretrained on general image datasets could be fine-tuned for mammogram analysis, as recent research has shown promising results in this area
+
+```bash
+Machine Learning
+├── Supervised Learning
+│   ├── Classification
+│   │   ├── Logistic Regression
+│   │   ├── Decision Trees
+│   │   ├── Support Vector Machines (SVM)
+│   │   └── Neural Networks
+│   └── Regression
+│       ├── Linear Regression
+│       ├── Ridge Regression
+│       └── Polynomial Regression
+├── Unsupervised Learning
+│   ├── Clustering
+│   │   ├── K-Means
+│   │   ├── DBSCAN
+│   │   └── Hierarchical Clustering
+│   ├── Dimensionality Reduction
+│   │   ├── PCA
+│   │   └── t-SNE
+│   └── GANs (Generative Adversarial Networks)
+├── Semi-Supervised Learning
+│   └── Self-Supervised Learning (SSSL)
+└── Domain Adaptation
+    ├── Unsupervised Domain Adaptation (UDA)
+    └── Transfer Learning
+
+Deep Learning
+├── Neural Networks
+│   ├── Fully Connected Networks (FCN)
+│   └── Convolutional Neural Networks (CNN)
+│       ├── U-Net
+│       └── GANs
+├── Segmentation
+│   ├── Semantic Segmentation
+│   ├── Instance Segmentation
+│   ├── U-Net
+│   └── Panoptic Segmentation
+├── GANs (Generative Adversarial Networks)
+│   ├── Conditional GANs (CGANs)
+│   ├── StyleGAN
+│   └── CycleGAN
+└── Reinforcement Learning
+```
