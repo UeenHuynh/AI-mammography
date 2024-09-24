@@ -91,3 +91,26 @@ Deep Learning
 │   └── CycleGAN
 └── Reinforcement Learning
 ```
+
+### Key Concepts
+
+- **Supervised Learning**: Learning with labeled data, divided into Classification (discrete outputs) and Regression (continuous outputs).
+- **Unsupervised Learning**: Learning without labels, finding hidden patterns in data, such as clustering and dimensionality reduction.
+- **Semi-Supervised Learning**: A combination of supervised and unsupervised learning.
+- **Domain Adaptation**: Adapting models to new domains or datasets, either with labeled or unlabeled data.
+- **Deep Learning**: A subfield of ML focused on neural networks with many layers.
+
+### Detailed Concepts
+
+- **Classification**: Predict discrete categories (e.g., email as spam or not spam).
+- **Segmentation**: Assign labels to each pixel of an image (semantic segmentation) or to individual instances (instance segmentation).
+- **GANs**: Two neural networks working together, one generates fake data (generator) and the other distinguishes between fake and real (discriminator).
+- **U-Net**: A specialized CNN architecture for segmentation, particularly in medical image analysis.
+- **UDA**: Unsupervised Domain Adaptation, transferring knowledge from one domain to another with unlabeled data.
+- **SSSL**: Self-Supervised Learning, where models generate their own labels from unlabeled data.
+
+---
+
+#### Usage of Tree Structure
+
+This tree structure helps categorize different types of learning in ML and DL, allowing for easier understanding of where each algorithm fits and their relationships.
