@@ -70,10 +70,10 @@ Machine Learning
 │   │   ├── PCA
 │   │   └── t-SNE
 │   └── GANs (Generative Adversarial Networks)
-├── Semi-Supervised Learning
+├── [Semi-Supervised Learning](https://github.com/HiLab-git/SSL4MIS)
 │   ├── Self-Supervised Learning (SSSL)
 │   ├── Semi-Supervised Semantic Segmentation (SSSS)
-└── Domain Adaptation
+└── [Domain Adaptation](https://github.com/zhaoxin94/awesome-domain-adaptation)
 │   ├── Unsupervised Domain Adaptation (UDA)
 │   └── Transfer Learning
 └── Reinforcement Learning
