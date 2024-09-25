@@ -74,8 +74,9 @@ Machine Learning
 │   ├── Self-Supervised Learning (SSSL)
 │   ├── Semi-Supervised Semantic Segmentation (SSSS)
 └── Domain Adaptation
-    ├── Unsupervised Domain Adaptation (UDA)
-    └── Transfer Learning
+│   ├── Unsupervised Domain Adaptation (UDA)
+│   └── Transfer Learning
+└── Reinforcement Learning
 
 Deep Learning
 ├── Neural Networks
@@ -88,11 +89,11 @@ Deep Learning
 │   ├── Instance Segmentation
 │   ├── U-Net
 │   └── Panoptic Segmentation
-├── GANs (Generative Adversarial Networks)
-│   ├── Conditional GANs (CGANs)
-│   ├── StyleGAN
-│   └── CycleGAN
-└── Reinforcement Learning
+└── GANs (Generative Adversarial Networks)
+    ├── Conditional GANs (CGANs)
+    ├── StyleGAN
+    └── CycleGAN
+
 ```
 
 ### Key Concepts
