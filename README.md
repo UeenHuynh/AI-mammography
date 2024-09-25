@@ -35,7 +35,9 @@ Common
 | :---------| :----------------------: | :-------------------------------------------------------------------------:| :--------------------: |  :--------------- |
 |Automated abnormalities detection in mammography using deep learning| Springer-2024|INBrest, CBIS-DDSM|CNN, U-Net, AUNet|[Paper](https://link.springer.com/article/10.1007/s40747-024-01532-x)|
 |Applying Deep Learning Methods for Mammography Analysis and Breast Cancer Detection| Appl. Sci. 2023|-|CAM|[Paper](https://www.mdpi.com/2076-3417/13/7/4272)|
-|Applying Deep Learning Methods for Mammography Analysis and Breast Cancer Detection| Appl. Sci. 2023|INBrest, CBIS-DDSM|CAM|[Paper](https://www.mdpi.com/2076-3417/13/7/4272)|
+|A Deep Learning Mammography-based Model for Improved Breast Cancer Risk Prediction| Radiology 2019|Private Data|-|[Paper](https://pubs.rsna.org/doi/pdf/10.1148/radiol.2019182716)|
+|A multimodal breast cancer diagnosis method based on Knowledge-Augmented Deep Learning| ScienceDirect 2024|Private Data|-|[Paper](https://pubs.rsna.org/doi/pdf/10.1148/radiol.2019182716)|
+|Deep Learning in Breast Cancer Imaging: State of the Art and Recent Advancements in Early 2024| MPDI|Private Data|-|[Paper](https://pubs.rsna.org/doi/pdf/10.1148/radiol.2019182716)|
 
 ## Gaps in Current Research
 1. Data Scarcity: Models trained on small datasets, may not generalize well across diverse populations. Recent studies have suggested the use of self-supervised learning to mitigate the issue of limited labeled data [Paper](https://www.frontiersin.org/journals/oncology/articles/10.3389/fonc.2024.1281922/full)
@@ -69,7 +71,8 @@ Machine Learning
 │   │   └── t-SNE
 │   └── GANs (Generative Adversarial Networks)
 ├── Semi-Supervised Learning
-│   └── Self-Supervised Learning (SSSL)
+│   ├── Self-Supervised Learning (SSSL)
+│   ├── Semi-Supervised Semantic Segmentation (SSSS)
 └── Domain Adaptation
     ├── Unsupervised Domain Adaptation (UDA)
     └── Transfer Learning
