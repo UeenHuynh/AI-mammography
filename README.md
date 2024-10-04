@@ -7,7 +7,11 @@ This is a summary of recent mammography methods. Please feel free to contact me 
 ## Overview Breast cancer in Asia
 | Paper| PDF             |
 | :---------|  :--------------- |
-|Breast Cancer in Asia: Incidence, Mortality, Early Detection, Mammography Programs, and Risk-Based Screening Initiatives|[Paper](https://www.nature.com/articles/s41597-023-02025-1)|
+|Breast Cancer in Asia: Incidence, Mortality, Early Detection, Mammography Programs, and Risk-Based Screening Initiatives|[Paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9454998/#sec1-cancers-14-04218title)|
+|Health Disparity and Breast Cancer Outcomes in Asian Women|[Paper](https://pubs.rsna.org/doi/full/10.1148/rg.220074)|
+|International evaluation of an AI system for breast cancer screening|[Paper](https://pubmed.ncbi.nlm.nih.gov/31894144/)|
+|A Deep Learning Mammography-based Model for Improved Breast Cancer Risk Prediction|[Paper](https://pubmed.ncbi.nlm.nih.gov/31063083/)|
+|Recent advancements in artificial intelligence for breast cancer: Image augmentation, segmentation, diagnosis, and prognosis approaches|[Paper](https://pubmed.ncbi.nlm.nih.gov/37704183/)|
 
 ## Mammography 2D datasets
 | Dataset| Published | Dataset| CODE | PDF             |
