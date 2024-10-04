@@ -4,6 +4,11 @@
 
 This is a summary of recent mammography methods. Please feel free to contact me (uyenhuynhkhoiminh.1.1@gmail.com) if I miss some papers. Issues and PRs are also welcomed! 
 
+## Overview Breast cancer in Asia
+| Paper| PDF             |
+| :---------|  :--------------- |
+|Breast Cancer in Asia: Incidence, Mortality, Early Detection, Mammography Programs, and Risk-Based Screening Initiatives|[Paper](https://www.nature.com/articles/s41597-023-02025-1)|
+
 ## Mammography 2D datasets
 | Dataset| Published | Dataset| CODE | PDF             |
 | :---------| :----------------------: | :-------------------------------------------------------------------------:| :--------------------: |  :--------------- |
@@ -71,7 +76,7 @@ Machine Learning
 │   │   └── t-SNE
 │   └── GANs (Generative Adversarial Networks)
 ├── [Semi-Supervised Learning](https://github.com/HiLab-git/SSL4MIS)
-│   ├── Self-Supervised Learning (SSSL)
+│   ├── [Self-Supervised Learning (SSSL)](https://github.com/jason718/awesome-self-supervised-learning?tab=readme-ov-file#computer-vision)
 │   ├── Semi-Supervised Semantic Segmentation (SSSS)
 └── [Domain Adaptation](https://github.com/zhaoxin94/awesome-domain-adaptation)
 │   ├── Unsupervised Domain Adaptation (UDA)
