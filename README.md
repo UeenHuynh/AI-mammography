@@ -12,6 +12,7 @@ This is a summary of recent mammography methods. Please feel free to contact me 
 |International evaluation of an AI system for breast cancer screening|[Paper](https://pubmed.ncbi.nlm.nih.gov/31894144/)|
 |A Deep Learning Mammography-based Model for Improved Breast Cancer Risk Prediction|[Paper](https://pubmed.ncbi.nlm.nih.gov/31063083/)|
 |Recent advancements in artificial intelligence for breast cancer: Image augmentation, segmentation, diagnosis, and prognosis approaches|[Paper](https://pubmed.ncbi.nlm.nih.gov/37704183/)|
+|Breast Cancer Facts & Figures 2024-2025|[Paper](https://www.cancer.org/content/dam/cancer-org/research/cancer-facts-and-statistics/breast-cancer-facts-and-figures/2024/breast-cancer-facts-and-figures-2024.pdf)|
 
 ## Mammography 2D datasets
 | Dataset| Published | Dataset| CODE | PDF             |
